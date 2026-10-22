@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "suman",
+      "mail": "suman@gmail.com",
+      "phone": "7654328190",
+      "department": "CSE",
+      "course": "JAVA full stack",
+      "id": "c8af"
+    },
+    {
+      "id": "4305",
+      "name": "paru",
+      "mail": "paru@gmail.com",
+      "phone": "9635435273",
+      "department": "CSE",
+      "course": "Python"
+    }
+  ]
+}
